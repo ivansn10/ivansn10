@@ -1,6 +1,6 @@
-# Hi, I'm Iván Serrano Núñez 👋
+# Hi, I'm Iván 👋
 
-### Software Engineer | Full-Stack Developer | English C2
+### Software Engineer | Full-Stack Developer
 
 I am a **Software Engineer** focused on building scalable, high-performance systems. My expertise lies in the **.NET and Java** ecosystems, with a deep interest in **Cloud Architecture** and **AI-driven solutions**.
 
