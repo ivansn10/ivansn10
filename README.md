@@ -16,13 +16,13 @@ I am a **Software Engineer** focused on building scalable, high-performance syst
 
 ### 🌟 Featured Projects
 
-#### 🎮 [Game Trackr](https://github.com/tu-usuario/game-trackr)
+#### 🎮 [Game Trackr](https://github.com/ivansn10/game-trackr-backend)
 **AI-Powered Discovery Engine.** Built with .NET & Angular, utilizing **Weaviate** for semantic search and **Ollama** for local LLM processing. Fully containerized with Docker.
 
-#### 📡 [WebRTC Signaling Server](https://github.com/tu-usuario/dotnet-game-server)
+#### 📡 [WebRTC Signaling Server](https://github.com/ivansn10/dotnet-game-server)
 **Real-time Communication Infrastructure.** A high-concurrency gateway built in C# for low-latency P2P handshakes via WebSockets.
 
-#### 👾 [CHIP-8 Emulator](https://github.com/tu-usuario/chip-8)
+#### 👾 [CHIP-8 Emulator](https://github.com/ivansn10/chip-8)
 **Systems Programming.** A high-fidelity CPU emulator implemented in **C**, demonstrating low-level memory management and instruction decoding.
 
 ---
