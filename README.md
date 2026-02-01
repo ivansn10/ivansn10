@@ -31,6 +31,3 @@ I am a **Software Engineer** focused on building scalable, high-performance syst
 - 🎓 **Education:** Finalizing B.S. in Computer Engineering (Expected 2026).
 - 💼 **Professional Experience:** Previously at **Asseco Spain**.
 ---
-
-### 📫 Contact Me
-- **Email:** iserranopersonal@gmail.com
