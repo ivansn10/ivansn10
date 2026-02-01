@@ -24,10 +24,3 @@ I am a **Software Engineer** focused on building scalable, high-performance syst
 
 #### 👾 [CHIP-8 Emulator](https://github.com/ivansn10/chip-8)
 **Systems Programming.** A high-fidelity CPU emulator implemented in **C**, demonstrating low-level memory management and instruction decoding.
-
----
-
-### 📈 Stats & Education
-- 🎓 **Education:** Finalizing B.S. in Computer Engineering (Expected 2026).
-- 💼 **Professional Experience:** Previously at **Asseco Spain**.
----
