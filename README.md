@@ -1,6 +1,6 @@
 # Hi, I'm Iván 👋
 
-### Software Engineer | Full-Stack Developer
+### Software Engineer
 
 I am a **Software Engineer** focused on building scalable, high-performance systems. My expertise lies in the **.NET and Java** ecosystems, with a deep interest in **Cloud Architecture** and **AI-driven solutions**.
 
