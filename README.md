@@ -9,7 +9,7 @@ I am a **Software Engineer** focused on building scalable, high-performance syst
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C#, Java, TypeScript, JavaScript, Python, C.
 - **Frameworks:** .NET, Spring Boot, Angular.
-- **Databases:** PostgreSQL, Oracle, MongoDB, Weaviate (Vector DB).
+- **Databases:** PostgreSQL, Oracle, MongoDB, Weaviate.
 - **Cloud & DevOps:** AWS, Docker, Nginx, CI/CD.
 
 ---
