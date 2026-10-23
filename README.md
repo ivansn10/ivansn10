@@ -1,26 +1,34 @@
 # Hi, I'm Iván 👋
+### Backend Engineer | Java (Spring Boot) & Cloud Architecture
 
-### Software Engineer
-
-I am a **Software Engineer** focused on building scalable, high-performance systems. My expertise lies in the **.NET and Java** ecosystems, with a deep interest in **Cloud Architecture** and **AI-driven solutions**.
+I am a Software Engineer based in **Tokyo, Japan**, specializing in building scalable, high-performance backend systems and RESTful APIs. My core expertise lies in the **Java / Spring Boot** ecosystem, enterprise databases (**PostgreSQL, Oracle**), containerization (**Docker, AWS**), and AI-assisted workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** C#, Java, TypeScript, JavaScript, Python, C.
-- **Frameworks:** .NET, Spring Boot, Angular.
-- **Databases:** PostgreSQL, Oracle, MongoDB, Weaviate.
-- **Cloud & DevOps:** AWS, Docker, Nginx, CI/CD.
+
+* **Core Backend:** Java (17/21), Spring Boot 3, RESTful APIs, SQL
+* **Databases:** PostgreSQL, Oracle Database
+* **Cloud & DevOps:** Docker, AWS, Git, GitHub Actions, Linux / Bash
+* **Frontend:** Angular, TypeScript, JavaScript, HTML5/CSS3
+* **Systems & Other:** C, Python
+* **AI & Tools:** GitHub Copilot, ChatGPT, Ollama
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🎮 [Game Trackr](https://github.com/ivansn10/game-trackr-backend)
-**AI-Powered Discovery Engine.** Built with .NET & Angular, utilizing **Weaviate** for semantic search and **Ollama** for local LLM processing. Fully containerized with Docker.
+* **🎮 Game Trackr**  
+  *AI-Powered Discovery Engine.* Full-stack containerized application integrating Angular with local AI processing (Ollama) and vector search for low-latency semantic data retrieval.  
+  `Spring Boot` • `Angular` • `Docker` • `Ollama`
 
-#### 📡 [WebRTC Signaling Server](https://github.com/ivansn10/dotnet-game-server)
-**Real-time Communication Infrastructure.** A high-concurrency gateway built in C# for low-latency P2P handshakes via WebSockets.
+* **👾 CHIP-8 Emulator**  
+  *Systems Programming.* A high-fidelity CPU emulator implemented in C, demonstrating low-level memory management, opcode decoding, and computer architecture fundamentals.  
+  `C` • `Systems Programming` • `Algorithms`
 
-#### 👾 [CHIP-8 Emulator](https://github.com/ivansn10/chip-8)
-**Systems Programming.** A high-fidelity CPU emulator implemented in **C**, demonstrating low-level memory management and instruction decoding.
+---
+
+📫 **Connect with me:**  
+* **Location:** Tokyo, Japan (Working Holiday Visa / Immediate Availability)  
+* **Email:** ivan.serrano.jp@gmail.com  
+* **Languages:** English (TOEIC 935 - Full Professional) | Japanese (Conversational / Preparing JLPT N2)
