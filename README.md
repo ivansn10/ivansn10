@@ -1,18 +1,18 @@
 # Hi, I'm Iván 👋
 ### Backend Engineer | Java (Spring Boot) & Cloud Architecture
 
-I am a Software Engineer based in **Tokyo, Japan**, specializing in building scalable, high-performance backend systems and RESTful APIs. My core expertise lies in the **Java / Spring Boot** ecosystem, enterprise databases (**PostgreSQL, Oracle**), containerization (**Docker, AWS**), and AI-assisted workflows.
+I am a Software Engineer based in **Tokyo, Japan**, specializing in building scalable, high-performance backend systems and RESTful APIs. My core expertise lies in the **Java / Spring Boot** ecosystem, databases (**PostgreSQL, Oracle, MongoDB**), containerization (**Docker, AWS**), and AI-assisted workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Core Backend:** Java (17/21), Spring Boot 3, RESTful APIs, SQL
-* **Databases:** PostgreSQL, Oracle Database
+* **Core Backend:** Java, Spring Boot, RESTful APIs, SQL
+* **Databases:** PostgreSQL, Oracle Database, MongoDB
 * **Cloud & DevOps:** Docker, AWS, Git, GitHub Actions, Linux / Bash
-* **Frontend:** Angular, TypeScript, JavaScript, HTML5/CSS3
+* **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
 * **Systems & Other:** C, Python
-* **AI & Tools:** GitHub Copilot, ChatGPT, Ollama
+* **AI & Tools:** GitHub Copilot, ChatGPT, Claude, Ollama
 
 ---
 
